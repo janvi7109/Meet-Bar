@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1c88ad8f-ac6a-4d71-9038-3d37a2f04882/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/Meet-Bar",
+    "appService.deploySubpath": "."
+}
